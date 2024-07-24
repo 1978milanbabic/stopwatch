@@ -29,7 +29,7 @@ The Stopwatch App is a React-based application with a mechanical-looking stopwat
 2. **Navigate to the project directory:**
 
     ```sh
-    cd jetquity-task
+    cd stopwatch
     ```
 
 3. **Install the dependencies:**
