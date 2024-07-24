@@ -23,7 +23,7 @@ The Stopwatch App is a React-based application with a mechanical-looking stopwat
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/jetquity-task.git
+    git clone https://github.com/1978milanbabic/stopwatch
     ```
 
 2. **Navigate to the project directory:**
