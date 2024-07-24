@@ -1,4 +1,4 @@
-# Jetquity Task - Stopwatch App
+# Stopwatch App
 
 ## Description
 
