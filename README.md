@@ -13,10 +13,16 @@ The Stopwatch App is a React-based application with a mechanical-looking stopwat
 
 ## Getting Started
 
-### Prerequisites
+### Prerequisites IMPORTANT
+
+Ensure you have the following installed:
 
 - Node.js (v20.x or later)
 - npm (v10.7.0 or later)
+
+**Using `nvm` (Node Version Manager)**
+
+To manage and install the correct version of Node.js, you can use `nvm`.
 
 ### Installation
 
